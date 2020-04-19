@@ -1,0 +1,12 @@
+body {
+    background: #7159c1;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #7159c1, #673AB7);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #884da7,#673AB7);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ ##7159c1*/
+}
+
+.logo{
+    width: 370px;
+}
